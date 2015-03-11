@@ -180,4 +180,12 @@ div#slider figure {
 #slider img {
 	height:284px;
 }
-
+#footer {
+	width:100%;
+	height:50px;
+	background-color: rgba(0, 0, 0, 0.5);
+	margin-top:50px;
+}
+#footer p{
+	color:white;
+}
